@@ -1,16 +1,15 @@
-## Hi there 👋
+## Chu kỳ kinh nguyệt
 
-<!--
-**chukykinhnguyet/chukykinhnguyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chu kỳ kinh nguyệt là hiện tượng sinh lý bình thường mà nữ giới phải trải qua. Dựa vào tần suất và đặc điểm của kỳ kinh nguyệt mà chị em có thể phát hiện sớm những vấn đề liên quan đến sức khỏe sinh sản nói riêng và sức khỏe tổng thể nói chung.
 
-Here are some ideas to get you started:
+#chukykinhnguyet #cachtinhchukykinhnguyet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: https://chukykinhnguyet.com/
+
+https://www.pinterest.com/chukykinhnguyet/
+
+https://vimeo.com/chukykinhnguyet
+
+https://www.youtube.com/channel/UCM4ZW_Vnl7leEVZE-Wwidyw
+
+https://gravatar.com/chukykinhnguyetcom
